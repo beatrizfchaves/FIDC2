@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 16,
+    "uniqCompNum": 21,
     "versionPublish": "4.5.2",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-32x32.png",
     "noImageResize": "",
@@ -50,7 +50,7 @@
             "timeout": 5,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1078.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sergio-valente-hot-flat-piscina-01-r01-preview-1515x849.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -92,7 +92,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-2-1620x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sergio-valente-hot-flat-varanda-r01-preview-1392x764.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -106,7 +106,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1631x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sergio-valente-hot-flat-living-r01-preview-1515x954.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": true,
@@ -198,12 +198,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/464x50-1188x128.png",
+              "src": "@PROJECT_PATH@/assets/images/f2-788x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
-              "linkInNewWindow": false
+              "link": "mailto:beatrizfchaves@gmail.com",
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -240,7 +239,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-1200x799.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-3-1200x799.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -251,7 +250,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-1200x800.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-3-1200x800.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -262,7 +261,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-1-1200x800.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-2-1200x800.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -273,7 +272,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-1-1200x799.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-2-1200x799.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -284,7 +283,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-1200x899.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-1200x899.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
