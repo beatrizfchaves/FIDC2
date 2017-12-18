@@ -19,10 +19,13 @@
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
         "isRtl": false
-      }
+      },
+      "additionalSetColors": [
+        "#2e2e2e"
+      ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 21,
+    "uniqCompNum": 27,
     "versionPublish": "4.5.2",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-32x32.png",
     "noImageResize": "",
@@ -50,7 +53,7 @@
             "timeout": 5,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/sergio-valente-hot-flat-piscina-01-r01-preview-1515x849.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1078.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -64,21 +67,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/sergio-valente-hot-flat-salao-de-jogos-r00-preview-1515x849.jpg",
-                "active": true,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "FIDC",
-                "overlay": true,
-                "contentAlign": "left",
-                "text": "Fondo de Inversiones Y Desarrollo Comercial, é um fundo de investimentos criado na Venezuela para fomentar o desenvolvimento industrial e imobiliário dos países da américa latina, sobretudo o brasil que é líder em oportunidades de negócios relacionados aos segmentos em que o fundo atua.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/sergio-valente-hot-flat-lobby-r00-preview-1515x849.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -92,7 +81,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/sergio-valente-hot-flat-varanda-r01-preview-1392x764.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1200x899.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -106,8 +95,22 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/sergio-valente-hot-flat-living-r01-preview-1515x954.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1200x800.jpg",
                 "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "FIDC",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "Fondo de Inversiones Y Desarrollo Comercial, é um fundo de investimentos criado na Venezuela para fomentar o desenvolvimento industrial e imobiliário dos países da américa latina, sobretudo o brasil que é líder em oportunidades de negócios relacionados aos segmentos em que o fundo atua.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-3-1200x799.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -143,7 +146,7 @@
             "fontColor": "#b8312f",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mailto:beatrizfchaves@gmail.com\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mailto:beatrizfchaves@gmail.com\">FIDC</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mailto:beatrizfchaves@gmail.com\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mailto:beatrizfchaves@gmail.com\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mailto:beatrizfchaves@gmail.com\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mailto:beatrizfchaves@gmail.com\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -239,7 +242,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-3-1200x799.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sergio-valente-hot-flat-lobby-r00-preview-1515x849.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -250,7 +253,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-3-1200x800.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sergio-valente-hot-flat-salao-de-jogos-r00-preview-1515x849.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -261,7 +264,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-2-1200x800.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sergio-valente-hot-flat-piscina-02-r01-preview-600x336.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -272,7 +275,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-2-1200x799.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sergio-valente-hot-flat-piscina-01-r01-preview-1515x849.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -283,7 +286,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-1-1200x899.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sergio-valente-hot-flat-varanda-r01-preview-1392x764.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -331,6 +334,56 @@
           "_anchor": "features3-e"
         },
         {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": "4",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#2e2e2e",
+            "showText": true,
+            "filter": true,
+            "images": [
+              {
+                "tags": "Empresas Parceiras",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-12-18-at-1.27.47-pm-908x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-12-18-at-1.27.47-pm-908x1280-784x745.jpg",
+                "alt": "",
+                "caption": "Valorsat",
+                "active": false
+              },
+              {
+                "tags": "Empresas Parceiras",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/kingmotoparts2-1-1204x1200.png",
+                "thumb": "@PROJECT_PATH@/assets/images/kingmotoparts2-1-1204x1200-800x758.png",
+                "alt": "",
+                "caption": "King Moto Peças",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "Todas",
+          "_name": "gallery4",
+          "_anchor": "gallery4-o",
+          "_styles": {
+            "LI": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
           "_params": {
             "googleMap": {
               "address": "Calle Ikabaru \nSanta Elena de Uairén, Bolívar",
@@ -359,8 +412,8 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Enviar</a>",
-          "text1": "<strong>Escritórios</strong><br><b>Venezuela</b>\n<br>Calle Ikabaru - Local 4<br>Santa Elena de Uairén, Bolívar<br><br><b>Uruguay</b>\n<br>Avda. Centenario 3099 - Cj 206 - Montevideo&nbsp;<br>C. P. 11600\n<br>&nbsp;<br>&nbsp;<br><br><br>\n<strong>Contato</strong><br>contato@fidc.com.ve<br>+55 (0) 000 0000 001<br>+1 (0) 000 0000 002",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"mailto:beatrizfchaves@gmail.com\">L</a>ink1</li><li><a class=\"text-white\" href=\"mailto:beatrizfchaves@gmail.com\">L</a>ink2</li><li><a class=\"text-white\" href=\"mailto:beatrizfchaves@gmail.com\">L</a>ink3</li></ul>",
+          "text1": "<strong>Escritórios</strong><br><b>Venezuela</b>\n<br>Calle Ikabaru - Local 4<br>Santa Elena de Uairén, Bolívar<br><br><b>Uruguay</b>\n<br>Avda. Centenario 3099 - Cj 206 - Montevideo&nbsp;<br>C. P. 11600\n<br>&nbsp;<br>&nbsp;<br><br><br>\n<strong>Contato</strong><br><strong><br></strong>contato@fidc.com.ve<br><br>",
+          "text2": "<div><font color=\"#bcbcbc\"><span style=\"font-size: 14px;\"></span></font></div>",
           "form": {
             "title": "MESSAGE",
             "action": "beatrizfchaves@gmail.com",
